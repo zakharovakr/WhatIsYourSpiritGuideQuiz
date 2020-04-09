@@ -1,0 +1,39 @@
+body {
+  background-color: #eed9c4;
+}
+
+div {
+  background: #f8dc88;
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  border: 20px;  
+}
+
+h1 {
+  text-align: center;
+  padding: 40px;
+  font-weight: bold;
+  font-family: Marker Felt, fantasy;
+  font-stretch: ultra-condensed;
+  font-weight: 600;
+}
+
+button {
+  background-color: #ff5e6c;
+  border: none;
+  color: white;
+  padding: 20px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+label {
+ text-align: left;
+}
+
+#Q2, #Q3, #Q4, #Q5 {
+  display: none;
+}
